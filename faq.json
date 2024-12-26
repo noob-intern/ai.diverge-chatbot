@@ -1,0 +1,362 @@
+[
+    {
+      "category": "1. Ordering & Shipping",
+      "subcategories": [
+        {
+          "title": "1.1 Placing an Order",
+          "faqs": [
+            {
+              "question": "How do I place an order on your website?",
+              "answer": "Simply add items to your cart, proceed to the checkout page, and enter your shipping and payment details. You'll receive a confirmation email once your order is placed."
+            },
+            {
+              "question": "Can I modify or cancel my order after it's placed?",
+              "answer": "If your order has not yet shipped, contact our support team within 24 hours to cancel or adjust items. Once the order ships, changes are no longer possible."
+            },
+            {
+              "question": "Is there a minimum order value?",
+              "answer": "No, there is no minimum order amount; however, orders below $20 may not qualify for free shipping promotions."
+            }
+          ]
+        },
+        {
+          "title": "1.2 Payment Methods",
+          "faqs": [
+            {
+              "question": "Which payment methods do you accept?",
+              "answer": "We accept major credit cards (Visa, MasterCard, American Express), PayPal, and select local payment gateways depending on your region."
+            },
+            {
+              "question": "Are payment installments or financing options available?",
+              "answer": "We partner with third-party payment providers like Klarna or Afterpay in certain regions, allowing you to split your purchase into smaller payments."
+            }
+          ]
+        },
+        {
+          "title": "1.3 Shipping & Delivery",
+          "faqs": [
+            {
+              "question": "What shipping options do you offer?",
+              "answer": "We offer Standard (3-7 business days), Express (1-3 business days), and International shipping (timing varies by country)."
+            },
+            {
+              "question": "How can I track my shipment?",
+              "answer": "You will receive a tracking link via email once your order ships. You can also log in to your account to check the shipping status."
+            },
+            {
+              "question": "Do you ship internationally?",
+              "answer": "Yes, we ship to most countries. Shipping times and costs may vary, and you may be responsible for duties or import taxes."
+            },
+            {
+              "question": "Why haven't I received my tracking information yet?",
+              "answer": "There may be a short delay (1-2 business days) between placing your order and the carrier updating the tracking link. If you see no update after 2 days, contact our support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "2. Returns, Refunds & Warranty",
+      "subcategories": [
+        {
+          "title": "2.1 Return Policy",
+          "faqs": [
+            {
+              "question": "What is your return policy?",
+              "answer": "We accept returns within 30 days of the delivery date, as long as the item is unused, in its original packaging, and accompanied by proof of purchase."
+            },
+            {
+              "question": "Do I need to pay for return shipping?",
+              "answer": "If the return is due to a defect or our error, we'll provide a prepaid return label. Otherwise, the customer is responsible for return shipping costs."
+            }
+          ]
+        },
+        {
+          "title": "2.2 Refund Process",
+          "faqs": [
+            {
+              "question": "How long does it take to process a refund?",
+              "answer": "Once we receive and inspect the returned item, refunds are typically processed within 5-7 business days. It may take an additional 3-5 days for your bank or credit card company to post the refund."
+            },
+            {
+              "question": "Can I get a partial refund if I used a coupon?",
+              "answer": "Yes, refunds for items purchased with promotional discounts will be prorated to reflect the final purchase price."
+            }
+          ]
+        },
+        {
+          "title": "2.3 Warranty",
+          "faqs": [
+            {
+              "question": "What does the warranty cover?",
+              "answer": "Our standard 1-year warranty covers manufacturer defects in materials and workmanship, but not damage from misuse or normal wear and tear."
+            },
+            {
+              "question": "How do I file a warranty claim?",
+              "answer": "Contact our support team with your order number, item details, and photos of the defect. If approved, we'll repair or replace the item at our discretion."
+            },
+            {
+              "question": "Do you offer extended warranty plans?",
+              "answer": "We currently do not offer extended warranties. However, many of our brands have robust manufacturer warranties covering specific parts or components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "3. Helmets & Protective Gear",
+      "subcategories": [
+        {
+          "title": "3.1 Helmet Sizing & Fit",
+          "faqs": [
+            {
+              "question": "How do I find the right helmet size?",
+              "answer": "Measure the circumference of your head just above the eyebrows. Compare this to our size chart on the product page."
+            },
+            {
+              "question": "Can I return a helmet if it doesn't fit?",
+              "answer": "Yes, as long as it's in new, unused condition, with tags still attached and returned within 30 days."
+            }
+          ]
+        },
+        {
+          "title": "3.2 Helmet Maintenance",
+          "faqs": [
+            {
+              "question": "How often should I replace my helmet?",
+              "answer": "We recommend replacing helmets every 3-5 years, or immediately if it has been involved in an impact."
+            },
+            {
+              "question": "How do I clean my helmet?",
+              "answer": "Use a mild soap and water solution to wipe the interior pads and shell. Air-dry thoroughly. Avoid harsh solvents or submerging the helmet."
+            }
+          ]
+        },
+        {
+          "title": "3.3 Protective Gear & Safety",
+          "faqs": [
+            {
+              "question": "Which type of protective gear do you recommend for mountain biking?",
+              "answer": "For mountain biking, we recommend a full-face helmet for more aggressive trails, knee and elbow pads, and optional body armor for downhill rides."
+            },
+            {
+              "question": "Do I need reflective gear in addition to lights?",
+              "answer": "Yes. Reflective gear on your clothing or bike accessories increases visibility from multiple angles, especially at night."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "4. Lights & Reflectors",
+      "subcategories": [
+        {
+          "title": "4.1 Choosing the Right Light",
+          "faqs": [
+            {
+              "question": "How bright should my bike light be for night riding?",
+              "answer": "We recommend a front light with at least 300 lumens for well-lit urban areas, and 600+ lumens for darker roads or trails. Rear lights typically range from 10-100 lumens."
+            },
+            {
+              "question": "What is the difference between rechargeable and battery-powered lights?",
+              "answer": "Rechargeable lights are USB-charged, more eco-friendly, and have higher upfront costs. Battery-powered lights are often cheaper initially but require disposable batteries."
+            }
+          ]
+        },
+        {
+          "title": "4.2 Installation & Maintenance",
+          "faqs": [
+            {
+              "question": "Are bike lights universal or specific to certain handlebars?",
+              "answer": "Most modern lights have adjustable mounts that fit a range of handlebar diameters. Check product specs for exact compatibility."
+            },
+            {
+              "question": "How do I maximize battery life?",
+              "answer": "Use lower brightness or flash modes when possible. For rechargeable lights, charge after each ride. Remove batteries during long storage."
+            }
+          ]
+        },
+        {
+          "title": "4.3 Reflector Tips",
+          "faqs": [
+            {
+              "question": "Which reflectors are required by law?",
+              "answer": "Requirements vary by region, but typically a red rear reflector and a white front reflector are standard. Some areas also mandate pedal or wheel reflectors."
+            },
+            {
+              "question": "How do I attach wheel reflectors?",
+              "answer": "Most wheel reflectors clip onto spokes. Make sure they're evenly spaced and securely fastened to avoid wheel imbalance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "5. Locks & Security",
+      "subcategories": [
+        {
+          "title": "5.1 Types of Locks",
+          "faqs": [
+            {
+              "question": "Which lock offers the highest security?",
+              "answer": "U-locks or chain locks with hardened steel provide the most security, especially if you also use a secondary cable for the wheels."
+            },
+            {
+              "question": "What's the difference between a cable lock and a chain lock?",
+              "answer": "Cable locks are lightweight and more convenient but less secure. Chain locks are heavier but offer greater resistance to cutting."
+            }
+          ]
+        },
+        {
+          "title": "5.2 Using Your Lock",
+          "faqs": [
+            {
+              "question": "How do I properly lock my bike in public?",
+              "answer": "Always secure the frame and at least one wheel to a fixed object with a U-lock or chain. Use a secondary cable lock for the other wheel."
+            },
+            {
+              "question": "Is it possible to insure my bike or accessories?",
+              "answer": "Some homeowner or renter insurance policies cover bikes. Specialized bike insurance is also available in some regions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "6. Maintenance & Tools",
+      "subcategories": [
+        {
+          "title": "6.1 Basic Maintenance",
+          "faqs": [
+            {
+              "question": "What tools do I need for routine bike maintenance?",
+              "answer": "A multi-tool with Allen keys, tire levers, a pump, and chain lube are the basics. For advanced tasks, consider a chain breaker, torque wrench, and spoke tool."
+            },
+            {
+              "question": "Do I need a special lubricant for bike chains?",
+              "answer": "Yes, use bike-specific chain lubes. Generic oils can attract dirt or cause premature wear."
+            }
+          ]
+        },
+        {
+          "title": "6.2 Tires & Tubes",
+          "faqs": [
+            {
+              "question": "How often should I check my tire pressure?",
+              "answer": "Ideally before every ride or at least weekly. Proper tire pressure ensures better handling, faster rolling, and fewer flats."
+            },
+            {
+              "question": "Can I convert my bike to tubeless tires?",
+              "answer": "Many wheels and tires are tubeless-ready. You'll need tubeless tape, sealant, and tubeless valves. Check manufacturer guidelines for compatibility."
+            }
+          ]
+        },
+        {
+          "title": "6.3 Drivetrain & Brakes",
+          "faqs": [
+            {
+              "question": "How do I know when to replace my brake pads?",
+              "answer": "Check the wear indicators on the pads. If you hear squealing or notice reduced stopping power, it's time to replace them."
+            },
+            {
+              "question": "Why is my chain skipping gears?",
+              "answer": "A dirty or worn chain, misaligned derailleur, or worn cassette/chainrings can cause skipping. Clean the drivetrain and check alignment; replace components if necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "7. Saddles & Comfort",
+      "subcategories": [
+        {
+          "title": "7.1 Choosing a Saddle",
+          "faqs": [
+            {
+              "question": "How do I choose a saddle that fits me comfortably?",
+              "answer": "Consider your sit bone width, riding posture, and cycling style (road, mountain, commuting). A bike shop can measure your sit bones for precision."
+            },
+            {
+              "question": "Do you offer saddle fittings in-store?",
+              "answer": "Many retailers offer saddle demos or fittings. Ask if they have a test saddle program or a dedicated fitting service."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "8. Technology & Smart Accessories",
+      "subcategories": [
+        {
+          "title": "8.1 GPS Devices & Cycling Computers",
+          "faqs": [
+            {
+              "question": "Which GPS bike computer is best for beginners?",
+              "answer": "Entry-level units like the Garmin Edge 130 or Wahoo Elemnt Bolt are popular, user-friendly, and relatively affordable."
+            },
+            {
+              "question": "Can I use my smartphone instead of a dedicated cycling computer?",
+              "answer": "Yes. Many riders use apps like Strava or Komoot, but dedicated GPS units often have better battery life and waterproofing."
+            }
+          ]
+        },
+        {
+          "title": "8.2 Bike Lights with Smart Features",
+          "faqs": [
+            {
+              "question": "Do you carry lights with brake-sensing or smart detection?",
+              "answer": "Yes, we offer advanced rear lights that get brighter when you slow down. Check product pages for specific features."
+            },
+            {
+              "question": "Are smart lights compatible with all handlebar setups?",
+              "answer": "Most are universal, but always check your handlebar diameter and the light's clamp range to ensure compatibility."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "9. Community & Support",
+      "subcategories": [
+        {
+          "title": "9.1 Workshops & Events",
+          "faqs": [
+            {
+              "question": "Do you host community rides or workshops?",
+              "answer": "Yes, we frequently host beginner maintenance classes, group rides, and safety workshops. Check our events calendar or sign up for our newsletter."
+            },
+            {
+              "question": "How do I join a group ride?",
+              "answer": "Register online or in-store. Our group rides are open to cyclists of all levels, often with separate groups for road, mountain, and urban riding."
+            }
+          ]
+        },
+        {
+          "title": "9.2 Contact & Customer Support",
+          "faqs": [
+            {
+              "question": "What's the best way to reach customer support?",
+              "answer": "You can contact us via phone, email, or live chat on our website. For quick questions, the chat is usually fastest."
+            },
+            {
+              "question": "When is your customer service available?",
+              "answer": "Our team is online Monday-Friday, 8AM-6PM, and Saturday 9AM-4PM (closed Sundays and major holidays)."
+            }
+          ]
+        },
+        {
+          "title": "9.3 Additional Resources",
+          "faqs": [
+            {
+              "question": "How do I stay updated on new products or sales?",
+              "answer": "Sign up for our newsletter, follow our social media, or check our Deals section for weekly promotions."
+            },
+            {
+              "question": "Do you have a loyalty program?",
+              "answer": "Yes! Every purchase earns points redeemable for discounts or special member-only perks."
+            }
+          ]
+        }
+      ]
+    }
+  ]

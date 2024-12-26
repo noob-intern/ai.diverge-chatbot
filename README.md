@@ -80,13 +80,13 @@ Usage
 
 	2.	System Processing
 	1.	Embedding or classification step checks if the query can be answered from an FAQ or local knowledge base.
-	2.	If confidence >= THRESHOLD → use the local system’s answer.
+	2.	If confidence >= THRESHOLD → use the local system's answer.
 	3.	If confidence < THRESHOLD → escalate to GPT-4.
 	3.	Response
 	•	JSON payload:
 
 {
-  "answer": "Your order is in transit. Here’s how to track it...",
+  "answer": "Your order is in transit. Here's how to track it...",
   "source": "faq" 
   // or "gpt4" if it came from GPT-4
 }
