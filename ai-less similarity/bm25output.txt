@@ -1,0 +1,100 @@
+Query #1 (HC): Can I return a product I dislike?
+  Best Match  : Can I exchange a product for a different size or color?
+  BM25 Score  : 5.43
+
+Query #2 (HC): Where can I check my shipment status?
+  Best Match  : Where can I track my order?
+  BM25 Score  : 5.09
+
+Query #3 (HC): Is there a minimum purchase amount required?
+  Best Match  : Is there a minimum order value?
+  BM25 Score  : 9.08
+
+Query #4 (HC): How do I reset the password on my account?
+  Best Match  : How do I reset my password?
+  BM25 Score  : 6.50
+
+Query #5 (HC): Do you ship outside the country?
+  Best Match  : Do you ship internationally?
+  BM25 Score  : 5.70
+
+Query #6 (HC): Which forms of payment are accepted?
+  Best Match  : Which payment methods do you accept?
+  BM25 Score  : 5.79
+
+Query #7 (HC): Is there an option for faster delivery?
+  Best Match  : Is there an additional fee for rural deliveries?
+  BM25 Score  : 6.59
+
+Query #8 (HC): Do you have gift cards?
+  Best Match  : Do you accept international credit cards?
+  BM25 Score  : 4.90
+
+Query #9 (HC): Can I use two different promo codes on one order?
+  Best Match  : Can I apply multiple promo codes at checkout?
+  BM25 Score  : 6.82
+
+Query #10 (HC): How do I delete my account for good?
+  Best Match  : How do I delete my account permanently?
+  BM25 Score  : 8.51
+
+Query #11 (HC): Is there any fee for rural area shipments?
+  Best Match  : Is there an additional fee for rural deliveries?
+  BM25 Score  : 10.49
+
+Query #12 (HC): Can I exchange an item for a larger size?
+  Best Match  : Can I exchange a product for a different size or color?
+  BM25 Score  : 7.32
+
+Query #13 (HC): How do I start a return process?
+  Best Match  : How do I initiate a return?
+  BM25 Score  : 4.46
+
+Query #14 (HC): What if my package never arrives?
+  Best Match  : What happens if my package is lost in transit?
+  BM25 Score  : 7.26
+
+Query #15 (HC): Can I switch my credit card after placing an order?
+  Best Match  : Can I change my payment method after placing an order?
+  BM25 Score  : 10.45
+
+Query #16 (LC): What is your corporate social responsibility approach?
+  Best Match  : What is your return policy?
+  BM25 Score  : 6.01
+
+Query #17 (LC): Could I have updates via carrier pigeon?
+  Best Match  : Where can I track my order?
+  BM25 Score  : 0.33
+
+Query #18 (LC): Do you have any suggestions for gift wrapping techniques?
+  Best Match  : Are gift cards available for purchase?
+  BM25 Score  : 5.09
+
+Query #19 (LC): How many employees does your company have?
+  Best Match  : How long does standard shipping take?
+  BM25 Score  : 4.05
+
+Query #20 (LC): Can you send me an email about space travel discounts?
+  Best Match  : Can I update my email address?
+  BM25 Score  : 4.26
+
+Query #21 (LC): What’s the meaning of life?
+  Best Match  : How long does the refund process take?
+  BM25 Score  : 2.07
+
+Query #22 (LC): Do I need special glasses to read your website?
+  Best Match  : Do I need to pay for return shipping?
+  BM25 Score  : 5.78
+
+Query #23 (LC): Is there a lounge area in your store for my dog?
+  Best Match  : Is there a minimum order value?
+  BM25 Score  : 5.90
+
+Query #24 (LC): Can I trade in my old TV for store credit?
+  Best Match  : What happens if my package is lost in transit?
+  BM25 Score  : 3.52
+
+Query #25 (LC): When does your CEO usually wake up in the morning?
+  Best Match  : How long does the refund process take?
+  BM25 Score  : 4.51
+
