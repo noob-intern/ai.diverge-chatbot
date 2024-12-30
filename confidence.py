@@ -85,3 +85,4 @@ for user_query in queries:
         print("→ Confidence is HIGH. Serve answer from knowledge base.\n")
     else:
         print("→ Confidence is LOW. Fallback to GPT-4 (or advanced AI).\n")
+

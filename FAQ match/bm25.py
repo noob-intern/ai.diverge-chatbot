@@ -1,6 +1,5 @@
 from rank_bm25 import BM25Okapi
 
-# 1) Vastly Expanded Knowledge Base
 knowledge_base = [
     # Ordering and Payment
     "How do I place an order on your website?",

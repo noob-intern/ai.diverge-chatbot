@@ -1,4 +1,0 @@
-Develop system :
-    Client (of an e commerce website) askes a question, sys checks if the question matches a FAQ listed in a db.
-    If matches, it gives you the answer, but if it doesn't, it passes the question and past convo to openai api for
-    an answer, finally resolving the issue.

@@ -55,3 +55,21 @@ for user_query in user_queries:
         print("→ Confidence is HIGH. Serve answer from knowledge base.\n")
     else:
         print("→ Confidence is LOW. Consider fallback.\n")
+
+
+
+
+"""
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+def cosine_similarity_match(user_question, faqs):
+    vectorizer = TfidfVectorizer()
+    faq_questions = [faq[1] for faq in faqs]
+    tfidf_matrix = vectorizer.fit_transform(faq_questions)
+    user_vector = vectorizer.transform([user_question])
+    similarity_scores = cosine_similarity(user_vector, tfidf_matrix).flatten()
+    best_match_idx = similarity_scores.argmax()
+    return faqs[best_match_idx] if similarity_scores[best_match_idx] > 0.7 else None
+
+"""
