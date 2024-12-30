@@ -1,0 +1,6 @@
+
+•	Send a POST request to /ask:
+{
+    "question": "What is your return policy?",
+    "past_conversation": "User: Hi, I have a query."
+}
